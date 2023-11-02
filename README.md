@@ -1,3 +1,8 @@
+# for run this project 
+you need to create-react-app and after that you need to install mui,material table, React paginate then you can run this project by Command npm start.
+# how many pages have in this project 
+in this project have two pages first one is Project_List in this project I created project list with material table and second one is project_List01 in this page I create product list with simple react and styled componets.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
